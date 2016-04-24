@@ -1,3 +1,5 @@
 # Stanford-SQL-Courses
-My answers to the quiz of Standford University Online Course DB5 SQL. 
+
+My answers to the quiz of the Standford University Online Course DB5 SQL. 
+DDL and DML process
 
